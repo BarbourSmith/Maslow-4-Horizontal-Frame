@@ -33,7 +33,12 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1739924378511,
-                    "ioValues": [],
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 1739924534747
+                        }
+                    ],
                     "description": "Connect geometry here to make it available in the next level up. "
                 },
                 {
@@ -101,8 +106,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.6957671957671957,
-                    "y": 0.6323119777158774,
+                    "x": 0.703472840605521,
+                    "y": 0.6100278551532033,
                     "uniqueID": 1739924534747,
                     "ioValues": [
                         {
